@@ -1,4 +1,7 @@
 ### 目录结构
+
+>通过语音转换的文本 记账
+
 ``` html
 dateof_money
 ├── config.env    //配置文件
