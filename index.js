@@ -24,11 +24,11 @@ async function init() {
         .then(async ({ fileStatus, resolve }) => {
           resolve.push(obj);
           writeFileHandle(filePath, JSON.stringify(resolve));
-          await sendMessageToApple(JSON.stringify(obj))
+          // await sendMessageToApple(JSON.stringify(obj))
         })
         .catch(async (err) => {
           writeFileHandle(filePath, JSON.stringify([obj]));
-          await sendMessageToApple(JSON.stringify(obj))
+          // await sendMessageToApple(JSON.stringify(obj))
         });
     })
   } catch (err) {
