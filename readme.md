@@ -18,3 +18,4 @@ dateof_money
 └── test.py     //解析文本钱数以及物品python脚本 使用spacy库
 ```
 
+<img width="286" alt="image" src="https://github.com/cairongquan/date_of_money/assets/38879616/6a2ff6d9-8d25-4801-982d-f1c6f1790e86">
