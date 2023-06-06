@@ -20,6 +20,7 @@ async function init() {
   try {
     getOptionByPy(userSendString).then((res) => {
       const obj = { timer: new Date().getTime(), str: userSendString, price: res.price, thing: res.thing };
+      console.log(obj)
       readFileHandle(filePath)
         .then(({ fileStatus, resolve }) => {
           resolve.push(obj);
