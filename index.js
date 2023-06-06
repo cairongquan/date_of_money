@@ -17,22 +17,18 @@ const sendMessageToApple = require('./lib/sendMessageToApple')
 
 async function init() {
   const userSendString = getUserSend();
-  console.log(userSendString)
   try {
     getOptionByPy(userSendString).then((res) => {
-      console.log(res)
       const obj = { timer: new Date().getTime(), str: userSendString, price: res.price, thing: res.thing };
-      console.log(obj)
       readFileHandle(filePath)
         .then(async ({ fileStatus, resolve }) => {
           resolve.push(obj);
           writeFileHandle(filePath, JSON.stringify(resolve));
-          // await sendMessageToApple(JSON.stringify(obj))
+          await sendMessageToApple(JSON.stringify(obj))
         })
         .catch(async (err) => {
-          console.log('done')
           writeFileHandle(filePath, JSON.stringify([obj]));
-          // await sendMessageToApple(JSON.stringify(obj))
+          await sendMessageToApple(JSON.stringify(obj))
         });
     })
   } catch (err) {

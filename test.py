@@ -21,7 +21,6 @@ def getLoadingParams(value:str):
             if len(numberIndexs) != 0 and (numberIndexs[len(numberIndexs)-1]['index']) != i-1:
                 lastIndex = None
                 numberIndexs = []
-                print('target',i)
             else:
                 lastIndex = i
                 numberIndexs.append({
