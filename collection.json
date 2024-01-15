@@ -1,0 +1,1210 @@
+[
+  {
+    "_id": { "$oid": "5ec0bace79f5ff39c4804048" },
+    "name": "绀青",
+    "hex": "#003371",
+    "rgb": "0, 51, 113",
+    "eName": "Cyanosis",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ab0f79f5ff39c4804007" },
+    "name": "花青",
+    "hex": "#003472",
+    "rgb": "0, 52, 114",
+    "eName": "Anthocyanin",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ac0279f5ff39c480400f" },
+    "name": "油绿",
+    "hex": "#00bc12",
+    "rgb": "0, 188, 18",
+    "eName": "OilGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b9aa79f5ff39c4804041" },
+    "name": "青翠",
+    "hex": "#00e079",
+    "rgb": "0, 224, 121",
+    "eName": "FreshGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ba8e79f5ff39c4804046" },
+    "name": "青",
+    "hex": "#00e09e",
+    "rgb": "0, 224, 158",
+    "eName": "Cyan",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b8b179f5ff39c4804037" },
+    "name": "绿",
+    "hex": "#00e500",
+    "rgb": "0, 229, 0",
+    "eName": "Green",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b7bb79f5ff39c480402d" },
+    "name": "松花绿",
+    "hex": "#057748",
+    "rgb": "5, 119, 72",
+    "eName": "Turquoise",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a6d279f5ff39c4804002" },
+    "name": "靛蓝",
+    "hex": "#065279",
+    "rgb": "6, 82, 121",
+    "eName": "indigo",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b3d879f5ff39c480401e" },
+    "name": "青葱",
+    "hex": "#0aa344",
+    "rgb": "10, 163, 68",
+    "eName": "FreshGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b84f79f5ff39c4804032" },
+    "name": "绿沈",
+    "hex": "#0c8918",
+    "rgb": "12, 137, 24",
+    "eName": "GreenShen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b2f579f5ff39c4804014" },
+    "name": "葱倩",
+    "hex": "#0eb83a",
+    "rgb": "14, 184, 58",
+    "eName": "CongQian",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b35e79f5ff39c4804019" },
+    "name": "葱青",
+    "hex": "#0eb83a",
+    "rgb": "14, 184, 58",
+    "eName": "GreenOnion",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a57279f5ff39c4803ff8" },
+    "name": "石青",
+    "hex": "#1685a9",
+    "rgb": "22, 133, 169",
+    "eName": "Lithospermum",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b6d179f5ff39c4804023" },
+    "name": "石绿",
+    "hex": "#16a951",
+    "rgb": "22, 169, 81",
+    "eName": "Celadon",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a64879f5ff39c4803ffd" },
+    "name": "靛青",
+    "hex": "#177cb0",
+    "rgb": "23, 124, 176",
+    "eName": "Indigo",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd9379f5ff39c4804069" },
+    "name": "碧",
+    "hex": "#1bd1a5",
+    "rgb": "27, 209, 165",
+    "eName": "Blue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b75779f5ff39c4804028" },
+    "name": "松柏绿",
+    "hex": "#21a675",
+    "rgb": "33, 166, 117",
+    "eName": "PineCypressGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb5d79f5ff39c4804050" },
+    "name": "碧绿",
+    "hex": "#2add9c",
+    "rgb": "42, 221, 156",
+    "eName": "DarkGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b31f79f5ff39c4804016" },
+    "name": "藏青",
+    "hex": "#2e4e7e",
+    "rgb": "46, 78, 126",
+    "eName": "TibetanGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bbc579f5ff39c4804055" },
+    "name": "玉",
+    "hex": "#2edfa3",
+    "rgb": "46, 223, 163",
+    "eName": "JadeColor",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be8779f5ff39c4804074" },
+    "name": "煤黑",
+    "hex": "#312520",
+    "rgb": "49, 37, 32",
+    "eName": "CoalBlackening",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bc9779f5ff39c480405d" },
+    "name": "乌黑",
+    "hex": "#392f41",
+    "rgb": "57, 47, 65",
+    "eName": "Ebony",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b39179f5ff39c480401b" },
+    "name": "藏蓝",
+    "hex": "#3b2e7e",
+    "rgb": "59, 46, 126",
+    "eName": "TibetanBlue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bc1579f5ff39c4804058" },
+    "name": "玄青",
+    "hex": "#3d3b4f",
+    "rgb": "61, 59, 79",
+    "eName": "XuanQing",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb0679f5ff39c480404b" },
+    "name": "翡翠",
+    "hex": "#3de1ad",
+    "rgb": "61, 225, 173",
+    "eName": "Emerald",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09fbc086c2b23a8e0205a" },
+    "name": "碧蓝",
+    "hex": "#3eede7",
+    "rgb": "62, 237, 231",
+    "eName": "DarkBlue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b93279f5ff39c480403c" },
+    "name": "草绿",
+    "hex": "#40de5a",
+    "rgb": "64, 222, 90",
+    "eName": "GrassGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bf5679f5ff39c480407d" },
+    "name": "黯",
+    "hex": "#41555d",
+    "rgb": "65, 85, 93",
+    "eName": "Dim",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b77d79f5ff39c480402a" },
+    "name": "黛蓝",
+    "hex": "#425066",
+    "rgb": "66, 80, 102",
+    "eName": "Indigo",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b6ff79f5ff39c4804025" },
+    "name": "黛绿",
+    "hex": "#426666",
+    "rgb": "66, 102, 102",
+    "eName": "DarkGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09f0d086c2b23a8e02055" },
+    "name": "蓝",
+    "hex": "#44cef6",
+    "rgb": "68, 206, 246",
+    "eName": "Blue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bdf979f5ff39c480406e" },
+    "name": "青碧",
+    "hex": "#48c0a3",
+    "rgb": "72, 192, 163",
+    "eName": "blue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be1f79f5ff39c4804070" },
+    "name": "瑙",
+    "hex": "#493131",
+    "rgb": "73, 49, 49",
+    "eName": "Agate",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b40979f5ff39c4804020" },
+    "name": "黛",
+    "hex": "#4a4266",
+    "rgb": "74, 66, 102",
+    "eName": "Dai",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ab8979f5ff39c480400c" },
+    "name": "宝蓝",
+    "hex": "#4b5cc4",
+    "rgb": "75, 92, 196",
+    "eName": "RoyalBlue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ba1d79f5ff39c4804043" },
+    "name": "紫檀",
+    "hex": "#4c221b",
+    "rgb": "76, 34, 27",
+    "eName": "RedSandal",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bbfe79f5ff39c4804057" },
+    "name": "群青",
+    "hex": "#4c8dae",
+    "rgb": "76, 141, 174",
+    "eName": "ultramarine",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bedd79f5ff39c4804078" },
+    "name": "墨",
+    "hex": "#50616d",
+    "rgb": "80, 97, 109",
+    "eName": "DarkColor",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be3b79f5ff39c4804072" },
+    "name": "铜绿",
+    "hex": "#549688",
+    "rgb": "84, 150, 136",
+    "eName": "Coppery",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb2b79f5ff39c480404d" },
+    "name": "紫棠",
+    "hex": "#56004f",
+    "rgb": "86, 0, 79",
+    "eName": "Begonia",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b7ea79f5ff39c480402f" },
+    "name": "黛紫",
+    "hex": "#574266",
+    "rgb": "87, 66, 102",
+    "eName": "BlackPurple",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd7379f5ff39c4804067" },
+    "name": "黧",
+    "hex": "#5d513c",
+    "rgb": "93, 81, 60",
+    "eName": "DarkBrown",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bf0379f5ff39c480407a" },
+    "name": "玄",
+    "hex": "#622a1d",
+    "rgb": "98, 42, 29",
+    "eName": "Black",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bdd379f5ff39c480406c" },
+    "name": "黝黑",
+    "hex": "#665757",
+    "rgb": "102, 87, 87",
+    "eName": "Swarthy",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb3a79f5ff39c480404e" },
+    "name": "黝",
+    "hex": "#6b6882",
+    "rgb": "107, 104, 130",
+    "eName": "Dark",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09e59086c2b23a8e02050" },
+    "name": "蔚蓝",
+    "hex": "#70f3ff",
+    "rgb": "112, 243, 255",
+    "eName": "SkyBlue",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bba279f5ff39c4804053" },
+    "name": "乌",
+    "hex": "#725e82",
+    "rgb": "114, 94, 130",
+    "eName": "Black",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd0e79f5ff39c4804062" },
+    "name": "黎",
+    "hex": "#75664d",
+    "rgb": "117, 102, 77",
+    "eName": "Li",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ba5f79f5ff39c4804044" },
+    "name": "苍",
+    "hex": "#75878a",
+    "rgb": "117, 135, 138",
+    "eName": "PaleColor",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0beaf79f5ff39c4804076" },
+    "name": "竹青",
+    "hex": "#789262",
+    "rgb": "120, 146, 98",
+    "eName": "BambooBark",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd3679f5ff39c4804064" },
+    "name": "石青",
+    "hex": "#7bcfa6",
+    "rgb": "123, 207, 166",
+    "eName": "Lithospermum",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bc5179f5ff39c480405a" },
+    "name": "缥",
+    "hex": "#7fecad",
+    "rgb": "127, 236, 173",
+    "eName": "DimLight",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb8979f5ff39c4804052" },
+    "name": "青莲",
+    "hex": "#801dae",
+    "rgb": "128, 29, 174",
+    "eName": "BlueLotus",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b96d79f5ff39c480403f" },
+    "name": "灰",
+    "hex": "#808080",
+    "rgb": "128, 128, 128",
+    "eName": "Grey",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b8e479f5ff39c4804039" },
+    "name": "紫酱",
+    "hex": "#815463",
+    "rgb": "129, 84, 99",
+    "eName": "Garnet",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b95879f5ff39c480403e" },
+    "name": "酱紫",
+    "hex": "#815476",
+    "rgb": "129, 84, 118",
+    "eName": "PickledPurple",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bae179f5ff39c4804049" },
+    "name": "水",
+    "hex": "#88ada6",
+    "rgb": "136, 173, 166",
+    "eName": "WaterColor",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be9a79f5ff39c4804075" },
+    "name": "秋",
+    "hex": "#896c39",
+    "rgb": "137, 108, 57",
+    "eName": "AutumnScenery",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b7d679f5ff39c480402e" },
+    "name": "绛紫",
+    "hex": "#8c4356",
+    "rgb": "140, 67, 86",
+    "eName": "Crimson",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b87179f5ff39c4804034" },
+    "name": "紫",
+    "hex": "#8d4bbb",
+    "rgb": "141, 75, 187",
+    "eName": "Beauty",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ab5c79f5ff39c480400a" },
+    "name": "豆青",
+    "hex": "#96ce54",
+    "rgb": "150, 206, 84",
+    "eName": "GreenBeans",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd8579f5ff39c4804068" },
+    "name": "棕红",
+    "hex": "#9b4400",
+    "rgb": "155, 68, 0",
+    "eName": "BrownRed",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bde879f5ff39c480406d" },
+    "name": "赭",
+    "hex": "#9c5333",
+    "rgb": "156, 83, 51",
+    "eName": "Ochre",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b8c379f5ff39c4804038" },
+    "name": "胭脂",
+    "hex": "#9d2933",
+    "rgb": "157, 41, 51",
+    "eName": "Rouge",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bef179f5ff39c4804079" },
+    "name": "胭脂",
+    "hex": "#9d2933",
+    "rgb": "157, 41, 51",
+    "eName": "Rouge",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0aadb79f5ff39c4804005" },
+    "name": "豆绿",
+    "hex": "#9ed048",
+    "rgb": "158, 208, 72",
+    "eName": "BeanGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a6a179f5ff39c4804000" },
+    "name": "葱绿",
+    "hex": "#9ed900",
+    "rgb": "158, 217, 0",
+    "eName": "Verdant",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ac2c79f5ff39c4804011" },
+    "name": "蓝灰",
+    "hex": "#a1afc9",
+    "rgb": "161, 175, 201",
+    "eName": "BlueGrey",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a5d779f5ff39c4803ffb" },
+    "name": "葱黄",
+    "hex": "#a3d900",
+    "rgb": "163, 217, 0",
+    "eName": "ScallionYellow",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bcbc79f5ff39c480405f" },
+    "name": "艾绿",
+    "hex": "#a4e2c6",
+    "rgb": "164, 226, 198",
+    "eName": "AIGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0baf479f5ff39c480404a" },
+    "name": "乌金",
+    "hex": "#a78e44",
+    "rgb": "167, 142, 68",
+    "eName": "BlackGold",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be2d79f5ff39c4804071" },
+    "name": "驼",
+    "hex": "#a88462",
+    "rgb": "168, 132, 98",
+    "eName": "Camel",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bc6a79f5ff39c480405b" },
+    "name": "绾",
+    "hex": "#a98175",
+    "rgb": "169, 129, 117",
+    "eName": "Wan",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bbb479f5ff39c4804054" },
+    "name": "棕黄",
+    "hex": "#ae7000",
+    "rgb": "174, 112, 0",
+    "eName": "LightBrown",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a53979f5ff39c4803ff6" },
+    "name": "柳绿",
+    "hex": "#afdd22",
+    "rgb": "175, 221, 34",
+    "eName": "GillowGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bc8479f5ff39c480405c" },
+    "name": "雪青",
+    "hex": "#b0a4e3",
+    "rgb": "176, 164, 227",
+    "eName": "XueQing",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bca779f5ff39c480405e" },
+    "name": "棕",
+    "hex": "#b25d25",
+    "rgb": "178, 93, 37",
+    "eName": "Brown",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd2679f5ff39c4804063" },
+    "name": "茶",
+    "hex": "#b35c44",
+    "rgb": "179, 92, 68",
+    "eName": "Tan",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bccd79f5ff39c4804060" },
+    "name": "檀",
+    "hex": "#b36d61",
+    "rgb": "179, 109, 97",
+    "eName": "Tan",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b90c79f5ff39c480403a" },
+    "name": "老银",
+    "hex": "#bacac6",
+    "rgb": "186, 202, 198",
+    "eName": "OldSilver",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b82079f5ff39c4804030" },
+    "name": "蟹壳青",
+    "hex": "#bbcdc5",
+    "rgb": "187, 205, 197",
+    "eName": "Crabmeat",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09dcb086c2b23a8e0204e" },
+    "name": "松花",
+    "hex": "#bce672",
+    "rgb": "188, 230, 114",
+    "eName": "PineFlower",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09f78086c2b23a8e02058" },
+    "name": "嫩绿",
+    "hex": "#bddd22",
+    "rgb": "189, 221, 34",
+    "eName": "VividGreen",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be6579f5ff39c4804073" },
+    "name": "殷红",
+    "hex": "#be002f",
+    "rgb": "190, 0, 47",
+    "eName": "Crimson",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bf4079f5ff39c480407c" },
+    "name": "银朱",
+    "hex": "#bf242a",
+    "rgb": "191, 36, 42",
+    "eName": "Yinzhu",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b79079f5ff39c480402b" },
+    "name": "青白",
+    "hex": "#c0ebd7",
+    "rgb": "192, 235, 215",
+    "eName": "CyanWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b89979f5ff39c4804035" },
+    "name": "花白",
+    "hex": "#c2ccd0",
+    "rgb": "194, 204, 208",
+    "eName": "White",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0be0a79f5ff39c480406f" },
+    "name": "枣红",
+    "hex": "#c32136",
+    "rgb": "195, 33, 54",
+    "eName": "ZaoHong",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b85d79f5ff39c4804033" },
+    "name": "绯红",
+    "hex": "#c83c23",
+    "rgb": "200, 60, 35",
+    "eName": "crimson",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb4c79f5ff39c480404f" },
+    "name": "昏黄",
+    "hex": "#c89b40",
+    "rgb": "200, 155, 64",
+    "eName": "Dim",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bec379f5ff39c4804077" },
+    "name": "赫赤",
+    "hex": "#c91f37",
+    "rgb": "201, 31, 55",
+    "eName": "Herch",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b30779f5ff39c4804015" },
+    "name": "樱桃",
+    "hex": "#c93756",
+    "rgb": "201, 55, 86",
+    "eName": "Cherry",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09ede086c2b23a8e02053" },
+    "name": "柳黄",
+    "hex": "#c9dd22",
+    "rgb": "201, 221, 34",
+    "eName": "WillowYellow",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bc2e79f5ff39c4804059" },
+    "name": "琥珀",
+    "hex": "#ca6924",
+    "rgb": "202, 105, 36",
+    "eName": "Amber",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bbde79f5ff39c4804056" },
+    "name": "茜",
+    "hex": "#cb3a56",
+    "rgb": "203, 58, 86",
+    "eName": "Alizarin",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bcfa79f5ff39c4804061" },
+    "name": "丁香",
+    "hex": "#cca4e3",
+    "rgb": "204, 164, 227",
+    "eName": "Lilac",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b98e79f5ff39c4804040" },
+    "name": "枯黄",
+    "hex": "#d3b17d",
+    "rgb": "211, 177, 125",
+    "eName": "WitheredYellow",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0aa9d79f5ff39c4804003" },
+    "name": "月白",
+    "hex": "#d6ecf0",
+    "rgb": "214, 236, 240",
+    "eName": "MoonWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b83b79f5ff39c4804031" },
+    "name": "秋香",
+    "hex": "#d9b611",
+    "rgb": "217, 182, 17",
+    "eName": "AutumnFragrance",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ac1779f5ff39c4804010" },
+    "name": "海棠红",
+    "hex": "#db5a6b",
+    "rgb": "219, 90, 107",
+    "eName": "begonia red",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb1879f5ff39c480404c" },
+    "name": "酡红",
+    "hex": "#dc3023",
+    "rgb": "220, 48, 35",
+    "eName": "Blush",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b6a779f5ff39c4804021" },
+    "name": "鹅卵青",
+    "hex": "#e0eee8",
+    "rgb": "224, 238, 232",
+    "eName": "Gooseberry",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b71879f5ff39c4804026" },
+    "name": "素",
+    "hex": "#e0f0e9",
+    "rgb": "224, 240, 233",
+    "eName": "element",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ba7d79f5ff39c4804045" },
+    "name": "黄栌",
+    "hex": "#e29c45",
+    "rgb": "226, 156, 69",
+    "eName": "CotinusCoggygria",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a67879f5ff39c4803ffe" },
+    "name": "莹白",
+    "hex": "#e3f9fd",
+    "rgb": "227, 249, 253",
+    "eName": "CrystalWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bdc479f5ff39c480406b" },
+    "name": "藕荷",
+    "hex": "#e4c6d0",
+    "rgb": "228, 198, 208",
+    "eName": "PalePinkishPurple",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b7a879f5ff39c480402c" },
+    "name": "雄黄",
+    "hex": "#e9bb1d",
+    "rgb": "233, 187, 29",
+    "eName": "realgar",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09e97086c2b23a8e02051" },
+    "name": "银白",
+    "hex": "#e9e7ef",
+    "rgb": "233, 231, 239",
+    "eName": "SilveryWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a4bd79f5ff39c4803ff4" },
+    "name": "霜",
+    "hex": "#e9f1f6",
+    "rgb": "233, 241, 246",
+    "eName": "Frost",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b8a479f5ff39c4804036" },
+    "name": "金",
+    "hex": "#eacd76",
+    "rgb": "234, 205, 118",
+    "eName": "Gold",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09d56086c2b23a8e0204d" },
+    "name": "樱草",
+    "hex": "#eaff56",
+    "rgb": "234, 255, 86",
+    "eName": "Primrose",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a55879f5ff39c4803ff7" },
+    "name": "妃",
+    "hex": "#ed5736",
+    "rgb": "237, 87, 54",
+    "eName": "Imperial",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd5c79f5ff39c4804066" },
+    "name": "藕",
+    "hex": "#edd1d8",
+    "rgb": "237, 209, 216",
+    "eName": "LotusRootColor",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b92079f5ff39c480403b" },
+    "name": "牙",
+    "hex": "#eedeb0",
+    "rgb": "238, 222, 176",
+    "eName": "ToothColor",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bd4479f5ff39c4804065" },
+    "name": "嫣红",
+    "hex": "#ef7a82",
+    "rgb": "239, 122, 130",
+    "eName": "Purples",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a6bc79f5ff39c4804001" },
+    "name": "品红",
+    "hex": "#f00056",
+    "rgb": "240, 0, 86",
+    "eName": "Fuchsin",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b3f479f5ff39c480401f" },
+    "name": "银红",
+    "hex": "#f05654",
+    "rgb": "240, 86, 84",
+    "eName": "SilverRed",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b73d79f5ff39c4804027" },
+    "name": "缃",
+    "hex": "#f0c239",
+    "rgb": "240, 194, 57",
+    "eName": "PaleYellow",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09f3f086c2b23a8e02056" },
+    "name": "铅白",
+    "hex": "#f0f0f4",
+    "rgb": "240, 240, 244",
+    "eName": "LeadWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a59079f5ff39c4803ff9" },
+    "name": "雪白",
+    "hex": "#f0fcff",
+    "rgb": "240, 252, 255",
+    "eName": "SnowWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b76b79f5ff39c4804029" },
+    "name": "石榴红",
+    "hex": "#f20c00",
+    "rgb": "242, 12, 0",
+    "eName": "Garnet",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b6bc79f5ff39c4804022" },
+    "name": "赤金",
+    "hex": "#f2be45",
+    "rgb": "242, 190, 69",
+    "eName": "RedGold",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0abd279f5ff39c480400d" },
+    "name": "缟",
+    "hex": "#f2ecde",
+    "rgb": "242, 236, 222",
+    "eName": "Gao",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0baa379f5ff39c4804047" },
+    "name": "彤",
+    "hex": "#f35336",
+    "rgb": "243, 83, 54",
+    "eName": "Tong",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09f9d086c2b23a8e02059" },
+    "name": "朱膘",
+    "hex": "#f36838",
+    "rgb": "243, 104, 56",
+    "eName": "VermilionFat",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b3b479f5ff39c480401c" },
+    "name": "茶白",
+    "hex": "#f3f9f1",
+    "rgb": "243, 249, 241",
+    "eName": "TeaWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ab7479f5ff39c480400b" },
+    "name": "桃红",
+    "hex": "#f47983",
+    "rgb": "244, 121, 131",
+    "eName": "PeachRed",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b37d79f5ff39c480401a" },
+    "name": "酡颜",
+    "hex": "#f9906f",
+    "rgb": "249, 144, 111",
+    "eName": "TuoYan",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a68f79f5ff39c4803fff" },
+    "name": "橙",
+    "hex": "#fa8c35",
+    "rgb": "250, 140, 53",
+    "eName": "Orange",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09f57086c2b23a8e02057" },
+    "name": "鸭黄",
+    "hex": "#faff72",
+    "rgb": "250, 255, 114",
+    "eName": "Duckling",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b2aa79f5ff39c4804012" },
+    "name": "鱼肚白",
+    "hex": "#fcefe8",
+    "rgb": "252, 239, 232",
+    "eName": "FishMawWhite",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bda879f5ff39c480406a" },
+    "name": "洋红",
+    "hex": "#ff0097",
+    "rgb": "255, 0, 151",
+    "eName": "Magenta",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b6e979f5ff39c4804024" },
+    "name": "大红",
+    "hex": "#ff2121",
+    "rgb": "255, 33, 33",
+    "eName": "BrightRed",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09ef9086c2b23a8e02054" },
+    "name": "火红",
+    "hex": "#ff2d51",
+    "rgb": "255, 45, 81",
+    "eName": "fiery",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0bb7179f5ff39c4804051" },
+    "name": "炎",
+    "hex": "#ff3300",
+    "rgb": "255, 51, 0",
+    "eName": "inflammation",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09e0d086c2b23a8e0204f" },
+    "name": "朱砂",
+    "hex": "#ff461f",
+    "rgb": "255, 70, 31",
+    "eName": "Cinnabar",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a5f879f5ff39c4803ffc" },
+    "name": "洋红",
+    "hex": "#ff4777",
+    "rgb": "255, 71, 119",
+    "eName": "Magenta",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b94379f5ff39c480403d" },
+    "name": "朱红",
+    "hex": "#ff4c00",
+    "rgb": "255, 76, 0",
+    "eName": "Vermilion",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b9b979f5ff39c4804042" },
+    "name": "丹",
+    "hex": "#ff4e20",
+    "rgb": "255, 78, 32",
+    "eName": "Dan",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0abe979f5ff39c480400e" },
+    "name": "橘红",
+    "hex": "#ff7500",
+    "rgb": "255, 117, 0",
+    "eName": "Orange",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ab3a79f5ff39c4804009" },
+    "name": "橘黄",
+    "hex": "#ff8936",
+    "rgb": "255, 137, 54",
+    "eName": "Orange",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0aabe79f5ff39c4804004" },
+    "name": "杏红",
+    "hex": "#ff8c31",
+    "rgb": "255, 140, 49",
+    "eName": "ApricotRed",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a5ae79f5ff39c4803ffa" },
+    "name": "橙黄",
+    "hex": "#ffa400",
+    "rgb": "255, 164, 0",
+    "eName": "Orange",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0a4eb79f5ff39c4803ff5" },
+    "name": "杏黄",
+    "hex": "#ffa631",
+    "rgb": "255, 166, 49",
+    "eName": "ApricotYellow",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0aaf279f5ff39c4804006" },
+    "name": "粉红",
+    "hex": "#ffb3a7",
+    "rgb": "255, 179, 167",
+    "eName": "Pink",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b2bf79f5ff39c4804013" },
+    "name": "藤黄",
+    "hex": "#ffb61e",
+    "rgb": "255, 182, 30",
+    "eName": "Gamboge",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b3c579f5ff39c480401d" },
+    "name": "雌黄",
+    "hex": "#ffc64b",
+    "rgb": "255, 198, 75",
+    "eName": "Orpiment",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b34779f5ff39c4804018" },
+    "name": "姜黄",
+    "hex": "#ffc773",
+    "rgb": "255, 199, 115",
+    "eName": "turmeric",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec09eb8086c2b23a8e02052" },
+    "name": "鹅黄",
+    "hex": "#fff143",
+    "rgb": "255, 241, 67",
+    "eName": "GooseYellow",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0b33679f5ff39c4804017" },
+    "name": "白粉",
+    "hex": "#fff2df",
+    "rgb": "255, 242, 223",
+    "eName": "powder",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5ec0ab2579f5ff39c4804008" },
+    "name": "象牙白",
+    "hex": "#fffbf0",
+    "rgb": "255, 251, 240",
+    "eName": "ivory",
+    "__v": 0
+  }
+]
